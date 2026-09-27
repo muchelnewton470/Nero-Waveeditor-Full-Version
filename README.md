@@ -266,4 +266,4 @@ This repository serves as the official landing page for Nero WaveEditor. The sof
 **Get the most recent version of Nero WaveEditor today!**
 
 ---
-**Last updated:** 2026-09-27 08:45:36 UTC
+**Last updated:** 2026-09-27 14:26:32 UTC
